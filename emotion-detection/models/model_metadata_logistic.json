@@ -1,0 +1,16 @@
+{
+  "model_type": "logistic",
+  "max_features": 10000,
+  "ngram_range": [
+    1,
+    3
+  ],
+  "vocabulary_size": 126,
+  "classes": [
+    "anger",
+    "fear",
+    "joy",
+    "neutral",
+    "sadness"
+  ]
+}
